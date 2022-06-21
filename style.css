@@ -1,12 +1,18 @@
 body{
     background-color: rgb(253, 251, 251);
-    margin: auto;
-    position: fixed;
-    top: 0;
 }
 #minha_foto {
-    width: 150px;
+    width: 100px;
+    padding-top: 5%;
 }
-#cabecalho{
-    top: 0px;
+#cabecalho {
+    position: fixed;
+    top:0;
+    left:0;
+}
+header{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 300px; 
 }
