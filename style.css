@@ -1,5 +1,9 @@
 body{
     background-color: rgb(253, 251, 251);
+    font-family:Kdam Thmor Pro;
+    font-size: medium;
+    color: black;
+    line-height: 120%;
 }
 #minha_foto {
     width: 100px;
@@ -9,10 +13,21 @@ body{
     position: fixed;
     top:0;
     left:0;
+    line-height: 180%;
 }
 header{
     position: fixed;
     bottom: 0;
     right: 0;
     width: 300px; 
+}
+#licoes_aprendidas{
+    margin: 20px;
+    padding: 1px;
+    border: 1px;
+}
+#licoes_a_aprender {
+    margin: 20px;
+    padding: 1px;
+    border: 1px;
 }
